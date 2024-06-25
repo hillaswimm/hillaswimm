@@ -5,10 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning Swimm
-- 🌱 I’m currently learning reps
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about dogs
+
 
 
